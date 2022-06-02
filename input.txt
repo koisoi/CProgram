@@ -1,0 +1,10 @@
+3
+2
+Makhar
+Male
+8
+Cold
+Varya
+Female
+43
+Runny nose

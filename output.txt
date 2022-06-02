@@ -1,0 +1,25 @@
+Hospital number 3:
+******************************
+1. Full name: Makhar
+Gender: Male
+Age: 8 years
+This patient is underage
+Diagnoses: Cold
+******************************
+2. Full name: Varya
+Gender: Female
+Age: 43 years
+Diagnoses: Runny nose
+******************************
+3. Full name: Vasiliy Sidorov
+Gender: Male
+Age: 90 years
+This patient is old
+Diagnoses: Stomach pain
+******************************
+Hospital number 34:
+******************************
+1. Full name: Alice Sin
+Gender: Female
+Age: 19 years
+Diagnoses: Cold
